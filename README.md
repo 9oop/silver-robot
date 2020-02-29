@@ -1,3 +1,3 @@
 # silver-robot
-Just another repository
-New and improved server control
+Official 9oop website
+Exclusive content provider
