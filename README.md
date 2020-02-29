@@ -1,3 +1,3 @@
 # silver-robot
-Official 9oop website
-Exclusive content provider
+9oop
+Official site
